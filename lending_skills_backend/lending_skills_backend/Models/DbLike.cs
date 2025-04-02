@@ -8,8 +8,8 @@ public class DbLike
     public const string TableName = "Likes";
     public Guid Id { get; set; }
 
-    public Guid UserId { get; set; }
-    public DbUser User { get; set; }
+    //public Guid UserId { get; set; }
+    //public DbUser User { get; set; }
 
     public Guid WorkId { get; set; }
     public DbWork Work { get; set; }
