@@ -26,7 +26,7 @@ public class DbUser
 
     public ICollection<DbWork> Works { get; set; } = new List<DbWork>();
 
-    //public ICollection<DbLike> Likes { get; set; } = new List<DbLike>();
+    public ICollection<DbLike> Likes { get; set; } = new List<DbLike>();
 }
 
 public class DbUserConfiguration : IEntityTypeConfiguration<DbUser>
@@ -45,10 +45,10 @@ public class DbUserConfiguration : IEntityTypeConfiguration<DbUser>
         //    .HasForeignKey(u => u.UserId)
         //    .OnDelete(DeleteBehavior.NoAction);
 
-        //builder
-        //  .HasMany(u => u.Likes)
-        //  .WithOne(l => l.User)
-        //  .OnDelete(DeleteBehavior.NoAction);
+        builder
+          .HasMany(u => u.Likes)
+          .WithOne(l => l.User)
+          .OnDelete(DeleteBehavior.NoAction);
     }
 }
 

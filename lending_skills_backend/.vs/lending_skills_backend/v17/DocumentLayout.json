@@ -1,110 +1,110 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\lending\\lending_skills_backend\\",
+  "WorkspaceRootPath": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dblike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dblike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\lending_skills_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\lending_skills_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbprofessorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbprofessorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbpogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbpogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\dataaccess\\applicationdbcontext..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\dataaccess\\applicationdbcontext..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\programsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\programsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\programsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\professorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbpogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbpogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\professorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\professorsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\professors_programsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\professors_programsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\professors_programsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\pagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\pagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\pagesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\blocksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\blocksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\blocksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\adminsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\adminsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\adminsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\likesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\likesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\likesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\tokensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\tokensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\tokensrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\worksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\worksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\worksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\repositories\\formsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\formsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\formsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbprofessorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbprofessorprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dblike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dblike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\lending\\lending_skills_backend\\lending_skills_backend\\models\\dbpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\lending_skills_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\lending_skills_backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\models\\dbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\models\\dbform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|d:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\dataaccess\\applicationdbcontext..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CE0DDBE-8D3A-42D2-B6F5-3FFD89789645}|lending_skills_backend\\lending_skills_backend.csproj|solutionrelative:lending_skills_backend\\dataaccess\\applicationdbcontext..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,21 +114,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "DbAdmin.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbAdmin.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbAdmin.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbAdmin.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbAdmin.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbAdmin.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbAdmin.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowBcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T13:51:06.881Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -136,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "Professors_programsRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\Professors_programsRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\Professors_programsRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\Professors_programsRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\Professors_programsRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\Professors_programsRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\Professors_programsRepository.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 7,
               "Title": "LikesRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\LikesRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\LikesRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\LikesRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\LikesRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\LikesRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\LikesRepository.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 5,
               "Title": "BlocksRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\BlocksRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\BlocksRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\BlocksRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\BlocksRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\BlocksRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\BlocksRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -172,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 11,
               "Title": "FormsRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\FormsRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\FormsRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\FormsRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\FormsRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\FormsRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\FormsRepository.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAgwAQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "PagesRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\PagesRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\PagesRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\PagesRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\PagesRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\PagesRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\PagesRepository.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,50 +195,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "DbLike.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbLike.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbLike.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbLike.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbLike.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbLike.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbLike.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwA0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T11:31:38.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T11:31:38.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "DbWork.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbWork.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbWork.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbWork.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbWork.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbWork.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbWork.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wB8AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T11:27:56.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T11:27:56.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 21,
               "Title": "lending_skills_backend.http",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\lending_skills_backend.http",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\lending_skills_backend.http",
               "RelativeDocumentMoniker": "lending_skills_backend\\lending_skills_backend.http",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\lending_skills_backend.http",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\lending_skills_backend.http",
               "RelativeToolTip": "lending_skills_backend\\lending_skills_backend.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-01T11:24:14.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T11:24:14.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
               "Title": "AdminsRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\AdminsRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\AdminsRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\AdminsRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\AdminsRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\AdminsRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\AdminsRepository.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,63 +243,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 18,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\appsettings.Development.json",
               "RelativeDocumentMoniker": "lending_skills_backend\\appsettings.Development.json",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\appsettings.Development.json",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\appsettings.Development.json",
               "RelativeToolTip": "lending_skills_backend\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-31T13:57:52.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T13:57:52.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "ApplicationDbContext..cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\DataAccess\\ApplicationDbContext..cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\DataAccess\\ApplicationDbContext..cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\DataAccess\\ApplicationDbContext..cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\DataAccess\\ApplicationDbContext..cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\DataAccess\\ApplicationDbContext..cs",
               "RelativeToolTip": "lending_skills_backend\\DataAccess\\ApplicationDbContext..cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:54:10.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T13:54:10.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 20,
               "Title": "DbReview.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbReview.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbReview.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbReview.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbReview.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbReview.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbReview.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA+wAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:53:14.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T13:53:14.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "DbProfessorProgram.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbProfessorProgram.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbProfessorProgram.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbProfessorProgram.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbProfessorProgram.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbProfessorProgram.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbProfessorProgram.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:53:06.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T13:53:06.379Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 19,
               "Title": "DbProfessor.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbProfessor.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbProfessor.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbProfessor.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbProfessor.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbProfessor.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbProfessor.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAywB4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,24 +303,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "DbPogram.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbPogram.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbPogram.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbPogram.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbPogram.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbPogram.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbPogram.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAIA/wCAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwCAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T13:52:17.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 22,
               "Title": "DbPage.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbPage.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbPage.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbPage.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbPage.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbPage.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbPage.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwCMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,24 +328,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "DbBlock.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbBlock.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbBlock.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbBlock.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbBlock.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbBlock.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbBlock.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T13:51:40.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-31T13:51:40.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "ProfessorsRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\ProfessorsRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\ProfessorsRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\ProfessorsRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\ProfessorsRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\ProfessorsRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\ProfessorsRepository.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAkwCcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,24 +352,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "ProgramsRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\ProgramsRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\ProgramsRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\ProgramsRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\ProgramsRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\ProgramsRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\ProgramsRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwCcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T15:31:03.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
               "Title": "ReviewsRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\ReviewsRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\ReviewsRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\ReviewsRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\ReviewsRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\ReviewsRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\ReviewsRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -386,11 +377,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 9,
               "Title": "TokensRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\TokensRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\TokensRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\TokensRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\TokensRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\TokensRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\TokensRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -398,11 +389,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 10,
               "Title": "WorksRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\WorksRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\WorksRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\WorksRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\WorksRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\WorksRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\WorksRepository.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -410,42 +401,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "UsersRepository.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\UsersRepository.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\UsersRepository.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Repositories\\UsersRepository.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Repositories\\UsersRepository.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Repositories\\UsersRepository.cs",
               "RelativeToolTip": "lending_skills_backend\\Repositories\\UsersRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T15:14:35.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T15:14:35.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "DbForm.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbForm.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbForm.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbForm.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbForm.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbForm.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbForm.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T14:49:17.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T14:49:17.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "DbUser.cs",
-              "DocumentMoniker": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbUser.cs",
+              "DocumentMoniker": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbUser.cs",
               "RelativeDocumentMoniker": "lending_skills_backend\\Models\\DbUser.cs",
-              "ToolTip": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\Models\\DbUser.cs",
+              "ToolTip": "D:\\3 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\\\u0440\u0435\u0430\u043A\u0442\\lending_skills_backend\\lending_skills_backend\\Models\\DbUser.cs",
               "RelativeToolTip": "lending_skills_backend\\Models\\DbUser.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAcwBgAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T12:24:53.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T12:24:53.6Z"
             }
           ]
         }

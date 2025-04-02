@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8DIVVbi5aEo=",
+  "dgSpecHash": "y6g7D7YnRjc=",
   "success": true,
-  "projectFilePath": "D:\\lending\\lending_skills_backend\\lending_skills_backend\\lending_skills_backend.csproj",
+  "projectFilePath": "D:\\3 курс 2 сем\\реакт\\lending_skills_backend\\lending_skills_backend\\lending_skills_backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Honor\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Honor\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -18,7 +18,7 @@ public class DbWork
     public bool Favorite { get; set; }
 
     public Guid UserId { get; set; }
-    public DbUser User { get; set; }
+    //public DbUser User { get; set; }
 
     public ICollection<DbLike> Likes { get; set; } = new List<DbLike>();
 }
