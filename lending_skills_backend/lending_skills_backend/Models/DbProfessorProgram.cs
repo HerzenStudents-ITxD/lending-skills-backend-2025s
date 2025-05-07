@@ -9,14 +9,19 @@ public class DbProfessorProgram
 
     public Guid Id { get; set; }
 
-    public bool Favorite { get; set; }
-
+    //public bool Favorite { get; set; }
 
     public Guid ProfessorId { get; set; }
     public DbProfessor Professor { get; set; }
 
     public Guid ProgramId { get; set; }
     public DbProgram Program { get; set; }
+
+    public Guid? NextProfessorId { get; set; }
+    //public DbProfessorProgram NextProfessor { get; set; }
+
+    public Guid? PreviousProfessorId { get; set; }
+    //public DbProfessorProgram PreviousProfessor { get; set; }
 }    
 
 
@@ -41,6 +46,18 @@ public class DbProfessorProgramConfiguration : IEntityTypeConfiguration<DbProfes
             .WithMany()
             .HasForeignKey(pp => pp.ProgramId)
             .OnDelete(DeleteBehavior.Cascade);
+
+        //builder
+        //    .HasOne(pp => pp.NextProfessor)
+        //    .WithOne()
+        //    .HasForeignKey<DbProfessorProgram>(pp => pp.NextProfessorId)
+        //    .OnDelete(DeleteBehavior.NoAction);
+
+        //builder
+        //    .HasOne(pp => pp.PreviousProfessor)
+        //    .WithOne()
+        //    .HasForeignKey<DbProfessorProgram>(pp => pp.PreviousProfessorId)
+        //    .OnDelete(DeleteBehavior.NoAction);
     }
 }
 

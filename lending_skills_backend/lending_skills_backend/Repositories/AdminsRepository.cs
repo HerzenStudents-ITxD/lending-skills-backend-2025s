@@ -18,7 +18,7 @@ public class AdminsRepository
         return await _context.Admins.ToListAsync();
     }
 
-    public async Task<DbAdmin?> GetAdminByIdAsync(int userId, int programId)
+    public async Task<DbAdmin?> GetAdminByIdAsync(Guid userId, Guid programId)
     {
         return await _context.Admins.FindAsync(userId, programId);
     }
@@ -29,7 +29,7 @@ public class AdminsRepository
         await _context.SaveChangesAsync();
     }
 
-    public async Task RemoveAdminAsync(int userId, int programId)
+    public async Task RemoveAdminAsync(Guid userId, Guid programId)
     {
         var admin = await _context.Admins.FindAsync(userId, programId);
         if (admin != null)

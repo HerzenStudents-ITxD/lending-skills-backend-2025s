@@ -2,6 +2,8 @@
 using lending_skills_backend.Models;
 using Microsoft.EntityFrameworkCore;
 
+namespace lending_skills_backend.Repositories;
+
 public class TokensRepository
 {
     private readonly ApplicationDbContext _context;

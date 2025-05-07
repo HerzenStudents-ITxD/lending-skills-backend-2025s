@@ -9,7 +9,8 @@ public class DbProgram
 
     public Guid Id { get; set; }
     public string Name { get; set; }
-    public string Menu { get; set; } //json?
+    public string Menu { get; set; } 
+    public bool IsActive { get; set; } = false; 
 
     public Guid? PageId { get; set; }
     //public DbPage? Pages { get; set; }
@@ -25,6 +26,8 @@ public class DbProgramConfiguration : IEntityTypeConfiguration<DbProgram>
         builder.ToTable(DbProgram.TableName);
 
         builder.HasKey(p => p.Id);
+
+        builder.Property(p => p.IsActive).HasDefaultValue(false);
 
         builder.HasMany(p => p.Pages)  
             .WithOne(pg => pg.Program);

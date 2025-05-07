@@ -30,6 +30,12 @@ public class ApplicationDbContext : DbContext
     public DbSet<DbToken> Tokens { get; set; }
 
     public DbSet<DbAdmin> Admins { get; set; }
+    public DbSet<DbTag> Tags { get; set; }
+    public DbSet<DbTagsWorks> TagsWorks { get; set; }
+    public DbSet<DbSkill> Skills { get; set; }
+    public DbSet<DbSkillWorks> SkillsWorks { get; set; }
+    public DbSet<DbSkillsUsers> SkillsUsers { get; set; }
+
 
 
 

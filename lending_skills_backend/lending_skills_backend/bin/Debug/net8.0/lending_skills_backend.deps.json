@@ -8,6 +8,10 @@
     ".NETCoreApp,Version=v8.0": {
       "lending_skills_backend/1.0.0": {
         "dependencies": {
+          "FluentValidation": "11.11.0",
+          "FluentValidation.AspNetCore": "11.3.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.11.0",
+          "MicroElements.Swashbuckle.FluentValidation": "6.1.0",
           "Microsoft.EntityFrameworkCore": "9.0.3",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.3",
           "NuGet.Frameworks": "6.13.2",
@@ -50,6 +54,76 @@
             "assemblyVersion": "1.11.4.0",
             "fileVersion": "1.1100.424.31005"
           }
+        }
+      },
+      "FluentValidation/11.11.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.11.0.0"
+          }
+        }
+      },
+      "FluentValidation.AspNetCore/11.3.0": {
+        "dependencies": {
+          "FluentValidation": "11.11.0",
+          "FluentValidation.DependencyInjectionExtensions": "11.11.0"
+        },
+        "runtime": {
+          "lib/net6.0/FluentValidation.AspNetCore.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.3.0.0"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.11.0": {
+        "dependencies": {
+          "FluentValidation": "11.11.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "9.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.11.0.0"
+          }
+        }
+      },
+      "MicroElements.OpenApi.FluentValidation/6.1.0": {
+        "dependencies": {
+          "FluentValidation": "11.11.0",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.3",
+          "Microsoft.Extensions.Options": "9.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MicroElements.OpenApi.FluentValidation.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "MicroElements.Swashbuckle.FluentValidation/6.1.0": {
+        "dependencies": {
+          "FluentValidation": "11.11.0",
+          "MicroElements.OpenApi.FluentValidation": "6.1.0",
+          "Swashbuckle.AspNetCore.SwaggerGen": "6.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/MicroElements.Swashbuckle.FluentValidation.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "System.Text.Encodings.Web": "9.0.3"
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.2.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "9.0.3"
         }
       },
       "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -693,6 +767,55 @@
       "sha512": "sha512-Sf4BoE6Q3jTgFkgBkx7qztYOFELBCo+wQgpYDwal/qJ1unBH73ywPztIJKXBXORRzAeNijsuxhk94h0TIMvfYg==",
       "path": "azure.identity/1.11.4",
       "hashPath": "azure.identity.1.11.4.nupkg.sha512"
+    },
+    "FluentValidation/11.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
+      "path": "fluentvalidation/11.11.0",
+      "hashPath": "fluentvalidation.11.11.0.nupkg.sha512"
+    },
+    "FluentValidation.AspNetCore/11.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jtFVgKnDFySyBlPS8bZbTKEEwJZnn11rXXJ2SQnjDhZ56rQqybBg9Joq4crRLz3y0QR8WoOq4iE4piV81w/Djg==",
+      "path": "fluentvalidation.aspnetcore/11.3.0",
+      "hashPath": "fluentvalidation.aspnetcore.11.3.0.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-viTKWaMbL3yJYgGI0DiCeavNbE9UPMWFVK2XS9nYXGbm3NDMd0/L5ER4wBzmTtW3BYh3SrlSXm9RACiKZ6stlA==",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.11.0",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512"
+    },
+    "MicroElements.OpenApi.FluentValidation/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qJPAI3bL70ND6fIi4bGqQf/lpV9wUod23R7JVhVVYRonoT/ZGmPBjMbO//IPPy3yP2F21iMX05brYjyU4/WqwQ==",
+      "path": "microelements.openapi.fluentvalidation/6.1.0",
+      "hashPath": "microelements.openapi.fluentvalidation.6.1.0.nupkg.sha512"
+    },
+    "MicroElements.Swashbuckle.FluentValidation/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VzqApLPY8xIqXDvWqRuvoDYEoCHII42c4LgvLO3BikKoIVcECD+ZSG727I7yPZ/J07VEoa8aJddoqUtSm4E4gw==",
+      "path": "microelements.swashbuckle.fluentvalidation/6.1.0",
+      "hashPath": "microelements.swashbuckle.fluentvalidation.6.1.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
+      "hashPath": "microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Features/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "path": "microsoft.aspnetcore.http.features/2.2.0",
+      "hashPath": "microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
       "type": "package",

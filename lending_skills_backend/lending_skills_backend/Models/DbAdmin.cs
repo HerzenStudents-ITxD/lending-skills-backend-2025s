@@ -13,6 +13,7 @@ public class DbAdmin
 
     public Guid ProgramId { get; set; }
     public DbProgram Program { get; set; }
+    public string Role { get; set; }
 }
 
 public class DbAdminConfiguration : IEntityTypeConfiguration<DbAdmin>

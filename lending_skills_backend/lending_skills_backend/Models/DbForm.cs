@@ -13,13 +13,13 @@ public class DbForm
 
     public string Data { get; set; }
     public string Date { get; set; }
+    public bool IsHidden { get; set; } = false;
 
     public Guid BlockId { get; set; }
     public DbBlock Block { get; set; }
 
 
-    //public ICollection<DbBlock> Blocks { get; set; } = new List<DbBlock>();
-
+    
 }
 
 public class DbFormsConfiguration : IEntityTypeConfiguration<DbForm>
@@ -32,6 +32,9 @@ public class DbFormsConfiguration : IEntityTypeConfiguration<DbForm>
         builder
             .HasKey(f => f.Id);
 
+        builder
+            .Property(f => f.IsHidden)
+            .HasDefaultValue(false);
 
         builder
           .HasOne(f => f.Block)

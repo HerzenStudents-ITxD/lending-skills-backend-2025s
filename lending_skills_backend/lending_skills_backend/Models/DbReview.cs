@@ -10,6 +10,9 @@ public class DbReview
     public Guid Id { get; set; }
     public string? Review { get; set; }
     public bool Favorite { get; set; }
+    public string Content { get; set; }
+    public DateTime CreatedDate { get; set; }
+    public bool IsSelected { get; set; }
 
     public Guid ProgramId { get; set; }
     public DbProgram Program { get; set; }

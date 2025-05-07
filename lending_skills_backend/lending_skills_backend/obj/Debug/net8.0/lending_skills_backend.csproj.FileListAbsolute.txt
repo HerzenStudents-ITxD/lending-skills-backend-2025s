@@ -171,3 +171,192 @@ D:\lending\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\refint
 D:\lending\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.pdb
 D:\lending\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.genruntimeconfig.cache
 D:\lending\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\ref\lending_skills_backend.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\appsettings.Development.json
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\appsettings.json
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.exe
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.deps.json
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.runtimeconfig.json
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.pdb
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Azure.Core.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Azure.Identity.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\FluentValidation.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.ClientModel.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Text.Json.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.csproj.AssemblyReference.cache
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.AssemblyInfoInputs.cache
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.AssemblyInfo.cs
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.csproj.CoreCompileInputs.cache
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets.build.json
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets.development.json
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.lending_skills_backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.build.lending_skills_backend.props
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lending_skills_backend.props
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lending_skills_backend.props
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\scopedcss\bundle\lending_skills_backend.styles.css
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_.45B8D223.Up2Date
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\refint\lending_skills_backend.dll
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.pdb
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.genruntimeconfig.cache
+D:\Документы\University_3year_2sem\Veb\lending_skills_backend (3)\lending_skills_backend (2)\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\ref\lending_skills_backend.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\appsettings.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.staticwebassets.endpoints.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.exe
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.deps.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.runtimeconfig.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\lending_skills_backend.pdb
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\MicroElements.OpenApi.FluentValidation.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\MicroElements.Swashbuckle.FluentValidation.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.csproj.AssemblyReference.cache
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.AssemblyInfoInputs.cache
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.AssemblyInfo.cs
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.csproj.CoreCompileInputs.cache
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.sourcelink.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\scopedcss\bundle\lending_skills_backend.styles.css
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.lending_skills_backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.lending_skills_backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.build.lending_skills_backend.props
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.lending_skills_backend.props
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.lending_skills_backend.props
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_.45B8D223.Up2Date
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\refint\lending_skills_backend.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.pdb
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\lending_skills_backend.genruntimeconfig.cache
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\ref\lending_skills_backend.dll
+C:\Users\Yanoc\Documents\GitHub\landing-frontend\lending_skills_backend\lending_skills_backend\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
