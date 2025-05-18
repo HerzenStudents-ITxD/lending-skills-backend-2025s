@@ -16,15 +16,15 @@ builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
     {
-        policy.WithOrigins("http://localhost:5173", "http://localhost:7002")
+        builder
+              .AllowAnyOrigin()
               .AllowAnyHeader()
-              .AllowAnyMethod()
-              .AllowCredentials();
+              .AllowAnyMethod();
     });
 });
 
 // Set port
-builder.WebHost.UseUrls("http://localhost:7002");
+builder.WebHost.UseUrls("http://*:80");
 
 builder.Services.AddSwaggerGen(c =>
 {
