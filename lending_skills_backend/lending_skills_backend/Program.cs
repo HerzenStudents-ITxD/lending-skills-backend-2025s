@@ -100,7 +100,7 @@ builder.Services.AddScoped<WorksRepository>();
 builder.Services.AddScoped<TokensRepository>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Database"));
     
     if (builder.Environment.IsDevelopment())
     {
