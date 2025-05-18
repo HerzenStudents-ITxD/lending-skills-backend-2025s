@@ -11,13 +11,13 @@ builder.Configuration
     .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
     .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true, reloadOnChange: true)
     .AddEnvironmentVariables();
-// Add CORS
+
+// Add CORS - исправленная версия
 builder.Services.AddCors(options =>
 {
-    options.AddDefaultPolicy(policy =>
+    options.AddPolicy("AllowAll", policy =>
     {
-        builder
-              .AllowAnyOrigin()
+        policy.AllowAnyOrigin()
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
@@ -36,57 +36,14 @@ builder.Services.AddSwaggerGen(c =>
     });
 });
 
+// Обновленная регистрация FluentValidation
 builder.Services.AddControllers()
-    .AddFluentValidation(fv =>
-    {
-        fv.RegisterValidatorsFromAssemblyContaining<GetPageRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddBlockToPageRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<ChangeBlockPositionRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<EditBlockRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddProgramRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<EditProgramRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<FormRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<GetFormsRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<HideFormsRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<ShowFormsRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<RemoveFormsRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<GetUsersRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddProgramAdminRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<RemoveProgramAdminRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddProfessorRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<UpdateProfessorRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddProfessorToProgramRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<RemoveProfessorFromProgramRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<ChangeProfessorProgramPositionRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddTagRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<UpdateTagRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<RemoveTagRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddTagToWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<RemoveTagFromWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddSkillRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<UpdateSkillRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<RemoveSkillRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddSkillToWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<RemoveSkillFromWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddSkillToUserRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<RemoveSkillFromUserRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<GetWorksRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<UpdateWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<HideWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<ShowWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<LikeWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<UnlikeWorkRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<GetProfilesRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<CreateStudentProfileRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<UpdateProfileRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<HideProfileRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<ShowProfileRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<GetReviewsRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<UpdateStudentReviewsRequestValidator>();
-        fv.RegisterValidatorsFromAssemblyContaining<AddReviewRequestValidator>();
-        });
-   
+    .AddFluentValidation();
+
+// Современный способ регистрации валидаторов
+var validatorAssemblies = new[] { typeof(Program).Assembly };
+builder.Services.AddValidatorsFromAssemblies(validatorAssemblies);
+
 builder.Services.AddScoped<ApplicationDbContext>();
 builder.Services.AddScoped<ReviewsRepository>();
 builder.Services.AddScoped<UsersRepository>();
@@ -98,6 +55,7 @@ builder.Services.AddScoped<SkillsRepository>();
 builder.Services.AddScoped<TagsRepository>();
 builder.Services.AddScoped<WorksRepository>();
 builder.Services.AddScoped<TokensRepository>();
+
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("Database"));
@@ -110,22 +68,21 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 });
 
 var app = builder.Build();
+
 using var scope = app.Services.CreateScope();
 await using var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
 await dbContext.Database.EnsureCreatedAsync();
 
-// if (app.Environment.IsDevelopment())
+// Включение Swagger в любом окружении (можно ограничить только Development)
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Lending Skills API V1");
-        c.RoutePrefix = "swagger";
-    });
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Lending Skills API V1");
+    c.RoutePrefix = "swagger";
+});
 
-// Enable CORS
-app.UseCors();
+// Enable CORS с указанием политики
+app.UseCors("AllowAll");
 
 app.MapControllers();
 
