@@ -4,8 +4,13 @@ using FluentValidation;
 using FluentValidation.AspNetCore;
 using lending_skills_backend.Validators;
 using lending_skills_backend.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Configuration
+    .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+    .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true, reloadOnChange: true)
+    .AddEnvironmentVariables();
 // Add CORS
 builder.Services.AddCors(options =>
 {
@@ -94,7 +99,15 @@ builder.Services.AddScoped<TagsRepository>();
 builder.Services.AddScoped<WorksRepository>();
 builder.Services.AddScoped<TokensRepository>();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+    
+    if (builder.Environment.IsDevelopment())
+    {
+        options.EnableSensitiveDataLogging()
+               .EnableDetailedErrors();
+    }
+});
 
 var app = builder.Build();
 using var scope = app.Services.CreateScope();
