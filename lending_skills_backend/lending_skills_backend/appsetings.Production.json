@@ -1,1 +1,16 @@
+{
+  "Logging": {
 
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+
+  "ConnectionStrings": {
+
+    "Database": "Server=sqlserver_db;User=SA;Password=User_1234;Database=itxd-skills-db;TrustServerCertificate=true"
+  },
+  "AllowedHosts": "*"
+
+}
